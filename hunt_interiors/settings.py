@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # Custom
     'users.apps.UsersConfig',
+    'home.apps.HomeConfig',
 ]
 
 MIDDLEWARE = [
